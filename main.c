@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include "add.h"
 int main() {
-	int a = add(25,10);
-	printf("25 + 10 = %d", a);
+	int a = add(2,1);
+	printf("2 + 1 = %d", a);
 	return 0;
 }
